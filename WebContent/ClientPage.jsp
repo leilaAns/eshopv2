@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>this is client page</h2>
-	<a href="searchItem.jsp">SearchItem</a>
+	<a href="searchItem.jsp">SearchItem for feature 1</a>
     <a href="viewItems.jsp">ViewItems</a>
 </body>
 </html>
