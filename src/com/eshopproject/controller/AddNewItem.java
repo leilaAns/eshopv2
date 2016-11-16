@@ -1,8 +1,6 @@
 package com.eshopproject.controller;
 
-import java.awt.event.ItemListener;
 import java.io.IOException;
-import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
